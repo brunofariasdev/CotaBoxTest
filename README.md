@@ -7,7 +7,7 @@
 
 Web App feitá para o teste para a vaga de Front-End na CotaBox
 
-## Ferramentas:
+## Tools:
   Vue3	<br>
   Sass <br>
   Vue-chartjs V2
@@ -40,6 +40,6 @@ $ npm run serve
   <img width="100%" height="100%" src="https://uploaddeimagens.com.br/images/003/537/539/full/screen-cotabox.PNG?1637018363" alt="CotaBoxTest">
 </p>
 
-## Alterações futuras:
-  Adicionar botão para remover usuário da tabela<br>
+## Future changes:
+  Adicionar botão para remover usuário da tabela <br>
   Adicionar um color picker para selecionar a cor que será representada no gráfico
