@@ -42,5 +42,5 @@ $ npm run serve
 
 ## Future changes:
   Adicionar botão para remover usuário da tabela <br>
-  Adicionar um color picker para selecionar a cor que será representada no gráfico
+  Adicionar um color picker para selecionar a cor que será representada no gráfico <br>
   Adicionar responsividade
