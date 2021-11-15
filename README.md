@@ -12,7 +12,7 @@ Web App feitá para o teste para a vaga de Front-End na CotaBox
   Sass <br>
   Vue-chartjs V2
  
-## Link Para ver a aplicação rodando na Netlify
+## Link Para ver a aplicação Online
 
 https://cotaboxtest.netlify.app
 
