@@ -40,3 +40,6 @@ $ npm run serve
   <img width="100%" height="100%" src="https://uploaddeimagens.com.br/images/003/537/539/full/screen-cotabox.PNG?1637018363" alt="CotaBoxTest">
 </p>
 
+## Alterações futuras:
+  Adicionar botão para remover algum usuario da tabela
+  Adicionar um color picker para selecionar a cor que será representada no gráfico
