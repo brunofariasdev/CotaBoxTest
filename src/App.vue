@@ -7,7 +7,7 @@
     </p>
     <div class="row">
       <Table  v-if="this.Participations.length > 0" :Participations="Participations" />
-      <Charts :info="Participations" />
+      <Charts :info="Participations" :key="componentKey" />
     </div>
   </div>
 </template>
@@ -27,11 +27,14 @@ export default {
   data(){
     return {
       Participations: [],
+      componentKey: 0
     }
   },
   methods:{
     save(newParticipation){
       this.Participations.push(newParticipation);
+      this.componentKey += 1;
+      console.log(this.Participations);
     }
   }
 }

@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-  <SportChart :labels="getLabels" :getData="getData"  />
+  <SportChart :labels="getLabels" :getData="getData" />
 </div>
 </template>
 

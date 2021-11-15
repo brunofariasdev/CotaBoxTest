@@ -18,7 +18,7 @@ export default defineComponent({
               {
                 label: 'Human 1',
                 data: this.getData,
-                backgroundColor: ["#41B883", "#E46651", "#00D8FF", "#DD1B16"]
+                backgroundColor: ["#2c97de","#16ba9a","#ea4b35","#9c56b8","#bdc3c7","#00b8e2","#fe8099","#f08d49","#ff0000"]
               },
               
             ]
@@ -33,8 +33,7 @@ export default defineComponent({
     this.renderChart(this.state.chartData, this.state.chartOptions);
   }, 
   updated(){
-  
-     
+      this.$ForceUpdate()
   }
 })
 </script>
