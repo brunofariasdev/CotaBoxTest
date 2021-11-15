@@ -41,5 +41,5 @@ $ npm run serve
 </p>
 
 ## Alterações futuras:
-  Adicionar botão para remover algum usuario da tabela<br>
+  Adicionar botão para remover usuário da tabela<br>
   Adicionar um color picker para selecionar a cor que será representada no gráfico
